@@ -1,0 +1,1 @@
+All these activities were passed in the classroom, in a practical way in C++.
